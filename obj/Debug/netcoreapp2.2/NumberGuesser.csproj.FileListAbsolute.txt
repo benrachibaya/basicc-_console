@@ -1,0 +1,11 @@
+/home/supergirl/Desktop/multi_projects/NumberGuesser/bin/Debug/netcoreapp2.2/NumberGuesser.deps.json
+/home/supergirl/Desktop/multi_projects/NumberGuesser/bin/Debug/netcoreapp2.2/NumberGuesser.runtimeconfig.json
+/home/supergirl/Desktop/multi_projects/NumberGuesser/bin/Debug/netcoreapp2.2/NumberGuesser.runtimeconfig.dev.json
+/home/supergirl/Desktop/multi_projects/NumberGuesser/bin/Debug/netcoreapp2.2/NumberGuesser.dll
+/home/supergirl/Desktop/multi_projects/NumberGuesser/bin/Debug/netcoreapp2.2/NumberGuesser.pdb
+/home/supergirl/Desktop/multi_projects/NumberGuesser/obj/Debug/netcoreapp2.2/NumberGuesser.csprojAssemblyReference.cache
+/home/supergirl/Desktop/multi_projects/NumberGuesser/obj/Debug/netcoreapp2.2/NumberGuesser.csproj.CoreCompileInputs.cache
+/home/supergirl/Desktop/multi_projects/NumberGuesser/obj/Debug/netcoreapp2.2/NumberGuesser.AssemblyInfoInputs.cache
+/home/supergirl/Desktop/multi_projects/NumberGuesser/obj/Debug/netcoreapp2.2/NumberGuesser.AssemblyInfo.cs
+/home/supergirl/Desktop/multi_projects/NumberGuesser/obj/Debug/netcoreapp2.2/NumberGuesser.dll
+/home/supergirl/Desktop/multi_projects/NumberGuesser/obj/Debug/netcoreapp2.2/NumberGuesser.pdb
